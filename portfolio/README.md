@@ -3,7 +3,7 @@
 This is a responsive, animated personal portfolio website built using **HTML, CSS, JavaScript and Bootstrap**. It showcases my skills, services and projects and includes features like testimonials, a contact form and a downloadable resume/cv.
 
 ## 🖥️ Live Preview
-
+gauravportfolio1045.netlify.app
 
 ---
 
@@ -50,9 +50,6 @@ This is a responsive, animated personal portfolio website built using **HTML, CS
 - AOS (Animate On Scroll)
 - Google Fonts (Josefin Sans)
 - Bootstrap Icons
-
----
-
 
 ---
 
