@@ -53,9 +53,6 @@ This is a responsive, animated personal portfolio website built using **HTML, CS
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots or GIF previews here if needed._
 
 ---
 
